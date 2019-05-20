@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469025284474",
+    "firebase_url": "https://serviconta-a9305.firebaseio.com",
+    "project_id": "serviconta-a9305",
+    "storage_bucket": "serviconta-a9305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469025284474:android:8786ae48661b8f66",
+        "android_client_info": {
+          "package_name": "com.serviconta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469025284474-ln20lf69is650emmdkrd0766dkoi6sqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cI0Bey3nNjd4LzqjqLOroiAjN7bMLPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469025284474-ln20lf69is650emmdkrd0766dkoi6sqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
